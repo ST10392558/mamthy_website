@@ -1,0 +1,395 @@
+ body{
+                background-color: black;
+                color: white;
+                margin: 0;
+            }
+            h1{
+                font-family: Arial, Helvetica, sans-serif;
+                font-style: oblique;
+                font-size: 50px;
+                font-weight: 100;
+                color: black;
+                margin: 0;
+                
+            }
+           #img1{
+            float: left;
+            margin-right: 17px;
+            border-radius: 50%;
+            position: relative;
+            left: 20px;
+           }
+           #p1{
+            border: 3px;
+            margin-left: 10px;
+            align-items: center;
+            font-size: 19px;
+            position: relative;
+            left: 70px;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-weight: 200;
+           }
+          
+           h2{
+            position: relative;
+            left: 700px;
+           }
+           #welcome{
+            position:relative ;
+            left: 400px;
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            letter-spacing: 1px;
+            font-weight: 100;
+        } 
+        header{
+            background-image: url(images/IMG_1062.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed;
+            height: 600px;
+            width: 1510px;
+        }
+        #div1{
+            background-color:transparent;
+
+        }
+        head{
+            margin: 0;
+        }
+        button{
+            background-color: transparent;
+            color: black;
+            font-size: 25px;
+            position: relative;
+            left: 1300px; 
+        }
+        button:hover{
+            background-color: black;
+            color: white;
+        }
+        .container{
+            width: 1500px;
+            height: 600px;
+            overflow: hidden;
+        }
+        .div2{
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: cover;
+            background-image: url(images/image00001.png);
+            background-attachment: fixed;
+           
+        }
+        .button2{
+            background-color: transparent;
+            color: white;
+            align-items: center;
+            justify-content: center;
+            bottom: -300px;
+            left: 650px;
+        }
+      
+      #browse{
+         position:relative ;
+            left: 500px;
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            letter-spacing: 1px;
+            font-weight: 100;
+      }
+     #button3{
+        background-color: transparent;
+        color: white;
+        font-size: 27px;
+        left: 210px;
+        border-style: inset;
+        border-color: white;
+         
+     }
+     #button3:hover{
+        background-color: white;
+        color: black;
+     }
+     #button4{
+         background-color: transparent;
+        color: white;
+        font-size: 27px;
+        left: 500px;
+        border-style: inset;
+        border-color: white;
+         
+     }
+     #button4:hover{
+         background-color: white;
+        color: black;
+     }
+     #button5{
+         background-color: transparent;
+        color: white;
+        font-size: 27px;
+        left: 755px;
+        border-style: inset;
+        border-color: white;
+         
+     }
+     #button5:hover{
+         background-color: white;
+        color: black;
+     }
+     #div3{
+          width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: cover;
+            background-image: url(images/image000002.png);
+            background-attachment: fixed;
+            height: 500px;
+            width: 1500px;
+     }
+     #contact{
+        position:relative ;
+            left: 600px;
+            bottom: -220px;
+            font-size: 40px;
+            font-family: Arial, Helvetica, sans-serif;
+            letter-spacing: 1px;
+            font-weight: 100;
+     }
+    .div4{
+        position: relative;
+        top: -120px;
+        left: 800px;
+    }
+
+   #div5{
+    position: relative;
+    left: 350px;
+    top: -60px;
+   }
+   #div6{
+    position: relative;
+    top: -15px;
+   
+   }
+   #div7{
+     position: relative;
+    left: 350px;
+    top: -75px;
+   }
+   #div8{
+    position: relative;
+   top: -70px;
+   left: 200px;
+   }
+   #div9{
+    position: relative;
+    top: -60px;
+    left: 200px; 
+   }
+   input{
+    height: 40px;
+    width: 300px;
+   }
+   textarea{
+    position:relative ;
+    right: 200px;
+    height: 100px;
+    width: 650px;
+   }
+   h3{
+    font-family: Arial, Helvetica, sans-serif;
+                font-style: oblique;
+                font-size: 30px;
+                font-weight: 100;
+   }
+  .icons{
+    text-decoration: none;
+    background-color: black;
+    margin-right: 10px;
+  }
+  iframe{
+    position: relative;
+    top: -155px;
+  }
+  #email{
+    position: relative;
+    top: -153px;
+  }
+  h5{
+    position: relative;
+    top: -155px;;
+  }
+ #button6{
+    background-color: rgb(210, 17, 88);
+    color: black;
+    font-size: 20px;
+    position: relative;
+    left: 1px;
+    top: -150px;
+    height: 46px;
+    width: 150px;
+ }
+ .header1{
+     background-image:url(images/IMG_1062.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            background-attachment: fixed;
+            height: 600px;
+            width: 1510px;
+ }
+ #gallery{
+    position:relative ;
+            left: 650px;
+            top: 200px;
+            font-size: 60px;
+            font-family: Arial, Helvetica, sans-serif;
+            letter-spacing: -1px;
+            font-weight: 100;
+ }
+ #email01{
+    position: relative;
+    top: -153px;
+ }
+ #button7{
+    background-color: rgb(210, 17, 88);
+    color: black;
+    font-size: 20px;
+    position: relative;
+    left: 1px;
+    top: -150px;
+    height: 46px;
+    width: 150px;
+ }
+ #measurement{
+    position: relative;
+    top: -20px;
+ }
+ #button8{
+    background-color: rgb(210, 17, 88);
+    color: black;
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+    top: 40px;
+    height: 46px;
+    width: 150px;
+
+ }
+ .closebtn{
+    position: relative;
+    left: 950px;
+    top: -10px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 2.25rem;
+    font-weight: bold;
+    font-weight: bold;
+ }
+ .appoint02{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) ;
+    border: 1px solid black;
+    border-radius: 10px;
+    z-index: 10;
+    background-color: white;
+    color: black;
+    height: 600px;
+    max-height: 100%;
+    width: 1000px;
+    max-width: 100%;
+    visibility: hidden;
+ }
+ .open-appoint02{
+    transform: translate(-50%, -50%) scale(1);
+    visibility: visible;
+ } 
+#overlay{
+    position: fixed;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .5);
+    pointer-events: none;
+}
+.open-overlay{
+    pointer-events: all;
+    opacity: 1;
+}
+.message{
+    width: 100%;
+    position: relative;
+    margin-bottom: 60px;
+    display: flex;
+ 
+}
+.success{
+    font-size: 20px;
+    color: green;
+    animation: buttons .3s linear;
+    position: absolute;
+    display: none;
+    transition: .3s;
+    
+}
+.danger{
+    font-size: 20px;
+    color: red;
+    animation: buttons .3s linear;
+    display: none;
+    transition: .3s;
+    position: absolute;
+    
+}
+@keyframes buttons{
+    0%{
+        transform: scale(0.1);
+    }
+    50%{
+        transform: scale(0.5);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+.message01{
+    width: 100%;
+    position: relative;
+    margin-bottom: 60px;
+    display: flex;
+}
+.unsuccessful{
+    font-size: 20px;
+    color: red;
+    animation: buttons .3s linear;
+    display: none;
+    transition: .3s;
+    position: relative;
+    top: -110px;
+    
+}
+.message02{
+    width: 100%;
+    position: relative;
+    margin-bottom: 60px;
+    display: flex;
+}
+.unsuccess002{
+    font-size: 20px;
+    color: red;
+    animation: buttons .3s linear;
+    display: none;
+    transition: .3s;
+   
+}
